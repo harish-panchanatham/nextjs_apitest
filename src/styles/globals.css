@@ -15,3 +15,8 @@
 .formItem {
   width: 80%;
 }
+.button{
+  box-shadow : none;
+  border-radius : 50px;
+  text-transform : capitalize;
+}
